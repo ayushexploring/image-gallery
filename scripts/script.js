@@ -22,4 +22,4 @@ $(".big-img").click(function (){
 setInterval(function(){
 	if(!paused)
 		$("#forward").click()
-},1000);
+},2000);
