@@ -1,13 +1,34 @@
-.container-fluid{text-align: center;}
-.row-head{display: flex;justify-content: space-around;}
-.heading{padding: 1%;font-size: 3vw;}
-.row-1{display: flex;justify-content: space-around;}
+html, head, body{
+	margin: 0;
+}
+.container-fluid{
+	text-align: center;
+}
+.row-head{
+	display: flex;
+	justify-content: space-around;
+}
+.heading{
+	padding: 1%;
+	font-size: 3vw;
+}
+.row-1{
+	display: flex;
+	justify-content: space-around;
+}
 .small-imgs{
-	width: 18%;height: 100%;padding: 1%;border-radius: 15%;
+	width: 18%;
+	height: 100%;
+	padding: 1%;
+	border-radius: 15%;
 }
-.row-2{display: flex;justify-content: space-around;
+.row-2{
+	display: flex;
+	justify-content: space-around;
 }
-.btn{height: 2%;}
+.btn{
+	height: 2%;
+}
 .row-3{
 	display: flex;
 	justify-content: space-around;
